@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Google Material Design/MainReceita.unity
+    guid: e30904e30ba8fa94481d329050a248ac
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Google Material Design/MainDespesa.unity
+    guid: 6a3ed0b0c54dfaf45ac96c7e2cbbd0c3
+  - enabled: 1
+    path: Assets/Google Material Design/Analise.unity
+    guid: e7be3dedbf4b61a4fa61746c7623181f
+  m_configObjects: {}
