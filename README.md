@@ -9,7 +9,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
-<img src="sc_1_bolso.png" alt="Header image">
+<img src="sc_1_bolso.PNG" alt="Header image">
 
 > Bolso do Yuri is an app i made to control my money, it was made in Unity 3D, all the informations turn into a csv file, so it's easy to control with an Excel table later.
 
