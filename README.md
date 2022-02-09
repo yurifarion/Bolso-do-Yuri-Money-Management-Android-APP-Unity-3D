@@ -1,6 +1,6 @@
 
 
-# SpaceBulletTime - Roguelike|Procedural generation
+# Bolso do Yuri - Money Management 
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -9,28 +9,20 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
-<img src="sc_1.png" alt="exemplo imagem">
+<img src="sc_1_bolso.png" alt="Header image">
 
-> Space Bullet is a space roguelike shooter, in this game the bullets and the enemies only move if the player moves. The map is randomly generated so you will alway play a fresh experience.
-### Adjustments and improvementss
+> Bolso do Yuri is an app i made to control my money, it was made in Unity 3D, all the informations turn into a csv file, so it's easy to control with an Excel table later.
 
-I am still developing this game, i can only work on it in my free time, so it's very slow paced
-
-- [x] Create Player movement and animations.
-- [x] Bullet time with bullets and particles when the player isn't moving.
-- [x] Random map based in a seed.
-- [ ] Enemies artificial intelligence, movement
-- [ ] Random indoors and Enemies in the map.
 
 ## 💻 Requirements
 
 Before starting, make sure you've met the following requirements:
 * Unity 2020,1,6f1
-* This game uses URP for 2D, it's not compatible with HTML5
+* This app uses UITween
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 CContributing to Bolso do Yuri
 
-To contribute to <SpaceBulletTime>, follow these steps:
+To contribute to Bolso do Yuri, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
@@ -48,4 +40,3 @@ Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to c
 
 This project is under license. See the [LICENSE](CC-BY-4.0.md) file for more details.
 
-[⬆Back to the top](#SpaceBulletTime)<br>
